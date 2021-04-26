@@ -1,0 +1,10 @@
+.budgetStyle{
+    border-radius: 28px;
+    height: 70px;
+    background-color: goldenrod;
+    border: 1x solid lightcoral;
+    width: 672px;
+    text-align: center;
+    margin-left: 39px;
+    color: whitesmoke;
+}

@@ -1,0 +1,8 @@
+
+.addButton{
+    height: 40px;
+    width: 150px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    box-shadow: 4px 11px 57px lightslategray;
+}
